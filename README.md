@@ -62,6 +62,6 @@ This file contains the details of all the individuals that contributed to this s
 
 4. The command lines are made only of one word.No arguement will be passed to the programs.
 
-5.If an executable is not found the shell prints an error message and displayu the prompt again.
+5. If an executable is not found the shell prints an error message and displayu the prompt again.
 
 
