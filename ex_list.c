@@ -24,7 +24,7 @@ size_t list_len(const list_t *h)
  * Return: array of strings
  */
 char **list_to_strings(list_t *head)
-{	
+{
 	list_t *node = head;
 	size_t i = list_len(head), j;
 	char **strs;
